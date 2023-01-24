@@ -1,0 +1,63 @@
+.services-md{
+    width: 5rem; 
+    margin: 100px; 
+}
+
+.web-text{
+    font-family: "EB Garamond";
+    font-weight: 800;
+    font-size: 70px;
+}
+.Banner{
+    padding: 50px;
+    background-image: url("images/banner.png");
+    width: 100%;
+    height: 550px;
+    border-radius: 8px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 90%;
+}
+.cover-images-text{
+    
+    color: #fff;
+    z-index: 1;
+}
+
+.search-s {
+    display: inline-flex;
+    justify-content: center;
+    width: 692px;
+    
+}
+
+.med-text-style{
+    font-family: "EB Garamond";
+    font-weight: 800;
+    font-size: 40px;
+}
+
+.med-text-style-p{
+    font-family: "poppins";
+    font-weight: 400;
+    font-size: 16px;
+}
+.cont-style{
+    background-color: rgb(227, 227, 227);
+    height: 285px ;
+    width: 285px;
+    gap: 5px;
+
+}
+
+.img-style{
+    width: auto;
+    height: auto;
+
+}
+
+.footer {
+    background-color: black;
+    height: 506px;
+    color: #fff;
+}
